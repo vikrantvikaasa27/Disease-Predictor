@@ -1,1 +1,1 @@
-# Disease-Predictor
+# Disease-Predictor using Streamlit
